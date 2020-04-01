@@ -6,7 +6,7 @@ namespace App;
 
 class FragmentCaching
 {
-    public function construct(CacheAdapterInterface $cache)
+    public function __construct(CacheAdapterInterface $cache)
     {
 
     }
