@@ -84,5 +84,3 @@ class GithubUserProviderTest extends \PHPUnit_Framework_TestCase
         $githubUserProvider->loadUserByUsername('an-access-token');
     }
 }
-
-}
